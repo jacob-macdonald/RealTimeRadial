@@ -4,7 +4,7 @@
 
 ### What is this repository for? ###
 
-This repository contains the necessary files for a real-time radial bSSFP pulse sequence compatible with the RTHawk platform.
+This repository contains the pulse sequence files for a real-time radial bSSFP pulse sequence compatible with the RTHawk platform. JavaScript files with the recon script are withheld due to proprietary code of HeartVista Inc.
 
 ### How do I get set up? ###
 
