@@ -1,0 +1,14 @@
+[Application]
+defaultName = Real-Time Radial bSSFP
+interface = lib:threeplane.ui
+continuous = 1
+sharedSlot = Real-Time
+calibrations = RealTimeShimming, Adjustments, CFtuning
+controlScript = control.js
+reconScript = recon.js
+singleJSEngine = false 
+
+[sequence]
+type = waveform
+file = bSSFP.spv
+loopIndex = 0
